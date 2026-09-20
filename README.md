@@ -14,9 +14,9 @@ I like building and securing networks. I hold a B.S. in Computer Science from UT
 
 ## Tools I use
 
-Networking: OPNsense, pfSense, Tailscale, AdGuard
-Systems: Linux (Ubuntu), Docker, PowerShell
-Security: OpenVAS, Nuclei, Nikto, Metasploit
+- **Networking:** OPNsense, pfSense, Tailscale, AdGuard
+- **Systems:** Linux (Ubuntu), Docker, PowerShell
+- **Security:** OpenVAS, Nuclei, Nikto, Metasploit
 
 ## Find me
 
