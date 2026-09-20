@@ -2,7 +2,7 @@
 
 IT infrastructure and security. Navy and Army veteran based in El Paso, TX.
 
-I like building and securing networks. I hold a B.S. in Computer Science from UTSA and have 9 years of military service, including Navy network and server operations. Today I do IT support and vulnerability assessments for managed clients, and I'm working toward network and systems engineering roles.
+I like building and securing networks. I hold a B.S. in Computer Science from UTSA and have 9 years of military service, including Navy network and server operations. Today I do IT support and vulnerability assessments for managed clients, and I build and secure networks in my home lab
 
 **Certifications:** CompTIA Security+, CompTIA PenTest+, CompTIA CNVP, HITRUST CCSFP. TryHackMe SAL1 in progress.
 
